@@ -29,9 +29,7 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 
 *   Use a DEX: To convert ETH to ckETH, visit a decentralized exchange (DEX) that supports this conversion, such as Uniswap or SushiSwap.
   <br>
-  
 *   [ICLightHouse](https://iclight.io/icRouter)
-
 
 <br>
 
