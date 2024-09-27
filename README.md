@@ -1,3 +1,3 @@
 #                                                                                        Tutorial for  how to use ckETH
 
-SO lets start or tutorial
+Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Internet Computer (ICP) using ckETH (wrapped ETH):
