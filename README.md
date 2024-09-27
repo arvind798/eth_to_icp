@@ -36,7 +36,8 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 *  Once wesite is open just connect your wallet click on connect wallet option and select internet identity 
 <br>
 
-![Screenshot 2024-09-27 145019](https://github.com/user-attachments/assets/3bd90a1f-7e86-4bfa-b77f-3a8b6b18c50e)
+![photo_1_2024-09-27_14-38-29](https://github.com/user-attachments/assets/fd3234ed-0128-4bbb-a19e-b2b41dca7a76)
+
 
 ![photo_7_2024-09-27_14-38-29](https://github.com/user-attachments/assets/cae324ab-f462-4130-8688-e6da712a1046)
 
@@ -46,7 +47,20 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 
 <br>
 
+* Now click on IcRouter Option and select first side Ethereum Mainnet and ETH , Select Second side IcNetwork and ckETH , As shown in below.
 
 
+![photo_2024-09-27_14-59-23](https://github.com/user-attachments/assets/e6515390-ef61-4253-a165-971cd1e323da)
+
+<br>
+
+*  Click on continue button a pop up will appear just put of eth value what you want to bridge
+*  click on send with metamask  , confirm the transaction and wait 10-20 minuttes  prefer below example
+
+<br>
+![Screenshot 2024-09-27 151017](https://github.com/user-attachments/assets/199af545-0920-4f9d-824c-a3b4e115eaad)
+
+
+<br>
 
 
