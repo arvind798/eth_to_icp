@@ -33,8 +33,20 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 *   [ICLightHouse](https://iclight.io/icRouter)
 
 <br>
+*  Once wesite is open just connect your wallet click on connect wallet option and select internet identity 
+<br>
 
-![photo_1_2024-09-27_14-38-29](https://github.com/user-attachments/assets/24996ba8-8eda-4bdf-a94c-d8422c38e504)
+![Screenshot 2024-09-27 145019](https://github.com/user-attachments/assets/3bd90a1f-7e86-4bfa-b77f-3a8b6b18c50e)
+
+![photo_7_2024-09-27_14-38-29](https://github.com/user-attachments/assets/cae324ab-f462-4130-8688-e6da712a1046)
+
+
+![photo_5_2024-09-27_14-38-29](https://github.com/user-attachments/assets/7fcdd2e7-87b1-4838-93d8-174e004bfbab)
+
+
+<br>
+
+
 
 
 
