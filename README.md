@@ -9,9 +9,12 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
  <br>
 *   Create a Wallet: If you don’t have a wallet yet, follow the instructions on the wallet’s website to set one up.
 <br>
-*  [ICP WALLET SETUP GUIDE](https://www.youtube.com/watch?v=nlR5UKg-bQU)
 
 *  [Metamask WALLET SETUP GUIDE](https://www.youtube.com/watch?v=A7sbpFvkEe0)
+
+[ICP Wallet Setup Guide]([https://linktodocumentation](https://www.youtube.com/watch?v=nlR5UKg-bQU))
+
+
 
 <br>
 
