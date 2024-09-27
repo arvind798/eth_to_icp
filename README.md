@@ -1,2 +1,2 @@
-# Create tutorial how to use ckETH
+# Tutorial for  how to use ckETH
 
