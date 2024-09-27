@@ -55,12 +55,20 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 <br>
 
 *  Click on continue button a pop up will appear just put of eth value what you want to bridge
-*  click on send with metamask  , confirm the transaction and wait 10-20 minuttes  prefer below example
+*  click on send with metamask  , confirme the transaction and wait 10-20 minuttes  prefer below example
 
 <br>
+
 ![Screenshot 2024-09-27 151017](https://github.com/user-attachments/assets/199af545-0920-4f9d-824c-a3b4e115eaad)
 
 
 <br>
 
+*  Once Your transaction is confirmed its looks like this
 
+<br>
+
+![photo_6_2024-09-27_14-38-29](https://github.com/user-attachments/assets/0f833915-1168-4971-a7d7-8c085b0b917c)
+
+
+<br>
