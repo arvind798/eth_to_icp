@@ -12,7 +12,7 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 
 *  [Metamask WALLET SETUP GUIDE](https://www.youtube.com/watch?v=A7sbpFvkEe0)
 
-[ICP Wallet Setup Guide]([https://linktodocumentation](https://www.youtube.com/watch?v=nlR5UKg-bQU))
+[ICP Wallet Setup Guide](https://linktodocumentation](https://www.youtube.com/watch?v=nlR5UKg-bQU )
 
 
 
