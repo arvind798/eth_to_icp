@@ -8,10 +8,10 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 *   [ICP WALLET Download LINK](https://nns.ic0.app/tokens/) 
  <br>
 *   Create a Wallet: If you don’t have a wallet yet, follow the instructions on the wallet’s website to set one up.
-*   [ICP SETUP](https://www.youtube.com/watch?v=nlR5UKg-bQU)
+<br>
+*  [ICP WALLET SETUP GUIDE](https://www.youtube.com/watch?v=nlR5UKg-bQU)
 
-[ICP WALLET SETUP GUIDE](https://www.youtube.com/watch?v=nlR5UKg-bQU)
-
+*  [Metamask WALLET SETUP GUIDE](https://www.youtube.com/watch?v=A7sbpFvkEe0)
 
 <br>
 
