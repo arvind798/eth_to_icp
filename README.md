@@ -94,7 +94,9 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 
 # congratulations you have successfully received your ckETH on your ICP Wallet 
 
-![photo_2_2024-09-27_14-38-29](https://github.com/user-attachments/assets/74a95e70-2661-4ebe-9bec-6cae4c05cd59)
+
+![photo_2_2024-09-27_14-38-29_2](https://github.com/user-attachments/assets/8c430032-967a-424f-99e7-5cd78cac9441)
+
 
 
 <br>
