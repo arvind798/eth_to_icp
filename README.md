@@ -17,4 +17,8 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 
 
 <br>
+#   Step 2: Acquire ckETH
+*   Obtain ETH: Ensure you have Ethereum (ETH) in your wallet. You can buy ETH on exchanges like Coinbase, Binance, or Bybit .
+*   [Binance](https://www.binance.com/) ,   [Coinbase](https://exchange.coinbase.com)
+*   Use a DEX: To convert ETH to ckETH, visit a decentralized exchange (DEX) that supports this conversion, such as Uniswap or SushiSwap.
 
