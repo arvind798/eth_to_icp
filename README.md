@@ -72,3 +72,29 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 
 
 <br>
+
+
+*  Now you have successfully bridge your eth to cketh  here you can move/transfer this cketh where you want.
+*  Go to your NNS/icp wallet and click on ckETH recieve button and copy your cketh diposit address
+<br>
+
+![Screenshot 2024-09-27 152621](https://github.com/user-attachments/assets/c853dcef-ac98-4256-966d-33b8f7a9bba7)
+
+![Screenshot 2024-09-27 152426](https://github.com/user-attachments/assets/a95570ea-4bec-4073-80c0-0a2770ec5541)
+
+<br>
+
+*Now click on main wallet and select ckETH Transfer button and paste address and click on max than press Transfer button.
+
+<br>
+
+![photo_4_2024-09-27_14-38-29](https://github.com/user-attachments/assets/47a7b5be-e72c-4123-8bfe-f936337b2c13)
+
+<br>
+
+# congratulations you have successfully received your ckETH on your ICP Wallet 
+
+![photo_2_2024-09-27_14-38-29](https://github.com/user-attachments/assets/74a95e70-2661-4ebe-9bec-6cae4c05cd59)
+
+
+<br>
