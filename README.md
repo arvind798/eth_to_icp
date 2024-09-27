@@ -7,7 +7,7 @@ Here's a step-by-step tutorial on how to deposit ETH from Ethereum to the Intern
 *   Create a Wallet: If you don’t have a wallet yet, follow the instructions on the wallet’s website to set one up.
 <br>   
 *   ## Table of contents
-* [General info](#general-info)
+* [General info](#[general-info](https://app.blocked.cc/217)
   <br>
 * [Technologies](#technologies)
   <br>
